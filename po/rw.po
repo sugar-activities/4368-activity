@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-20 23:00-0200\n"
+"PO-Revision-Date: 2012-04-05 06:15+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "FollowMe Butia"
+msgstr ""
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/followme.py:83
+msgid "Error on initialization of the camera"
+msgstr ""
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/followme.py:90
+#, fuzzy
+msgid "Camera was not found"
+msgstr "Camera ntiyashoboye kuboneka"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/followme.py:228
+msgid "Butia robot was not detected"
+msgstr ""
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:102
+#, fuzzy
+msgid "Calibrate/Follow"
+msgstr "Byahinduwe/Gukurikira"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:111
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:539
+msgid "Stop"
+msgstr "Hagarika"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:131
+#, fuzzy
+msgid "Calibrated color:"
+msgstr "Ibara ryahinduwe:"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:131
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:257
+msgid "Red"
+msgstr "Umutuku"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:159
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:285
+msgid "Green"
+msgstr "Icyatsi"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:187
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:313
+#, fuzzy
+msgid "Blue"
+msgstr "Ubururu"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:211
+#, fuzzy
+msgid "Calibrate"
+msgstr "Impindura"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:222
+msgid "Pixels"
+msgstr ""
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:257
+msgid "Threshold:"
+msgstr ""
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:337
+msgid "Options"
+msgstr "Amahitamo"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:348
+#, fuzzy
+msgid "Show size"
+msgstr "Garagaza ingano"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:400
+#, fuzzy
+msgid "Show grid"
+msgstr "Garagaza urusobetudirishya"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:416
+#, fuzzy
+msgid "Show captures"
+msgstr "Garagaza ibyafashwe"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:426
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:560
+#, fuzzy
+msgid "Hide"
+msgstr "Hisha"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:431
+msgid "Resolution"
+msgstr "Imikemurire"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:534
+msgid "Start"
+msgstr "Gutangira"
+
+#: /home/alan/Documentos/GIT/followmeButia/mainline/activity.py:555
+msgid "Show"
+msgstr "Garagaza"
